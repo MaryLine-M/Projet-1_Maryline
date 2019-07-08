@@ -1,0 +1,60 @@
+                                 Projet -1
+
+Étapes à suivre :
+
+
+
+
+I.INSTALLATION ET CRÉATION DES SUPPORTS
+
+1) Création d'un dossier Projet-1 dans répertoire perso
+
+2) Créer un fichier "premier-commit-etapes.txt" dans lequel définir les étapes à suivre, l'enregistrer dans le dossier Projet-1
+
+3) Dans le dossier Projet-1 créer un dossier "styles" et un dossier "images"
+
+4) Récupérer les ressources nécéssaires : images, photos, logos (à enregistrer dans le dossier images) et textes, fonts ... (à enregistrer dans le dossier Projet-1)
+
+5) créer un fichier html "Projet-1" à enregistrer dans Projet-1 
+et créer un fichier css "styles_Projet-1" à enregistrer dans Styles
+
+
+6) Création d'un dépôt GitHub public nommé "Projet-1_Maryline"
+
+7) Commit du fichier "premier-commit-etapes.txt"
+
+
+
+
+II. CRÉATION DE LA STRUCTURE ET MODIFICATION DU STYLE
+
+1) Dand le fichier html : structurer la page avec les balises de base (<doctype, <head, <body...)
+
+2) Créer petit à petit les différents éléments (<nav, <div, <h1, <p...) en copiant les textes correspondants pour former les blocs qui composeront la page
+
+3) Rajouter les balises d'images et autres liens... (<a href ...)
+
+
+
+
+III. MODIFICATION ET MISE EN FORME AVEC CSS
+
+1) Dans le fichier css : modifier les fonts, les couleurs, ...
+
+2) Positionner les blocs dans la page (alignements, taille,...) 
+
+3) Modifier l'aspect graphique en retouchant si besoin l'html, jusqu'à l'obtention du rendu souhaité...
+
+
+
+
+IV.ENVOI DU DOSSIER SUR LE DÉPÔT GITHUB
+
+
+;)
+
+
+
+
+
+
